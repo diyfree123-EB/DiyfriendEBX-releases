@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "0.1.1-dev",
-    "sha256":  "3160e6b564343aebfd7ad703b21c96730e387a6068b9810c2ae65bc19015c501",
-    "notes":  "DiyfriendEBX 0.1.1-dev (sealed; setup has desktop icon)",
-    "filename":  "DiyfriendEBX-0.1.1-dev.zip",
+    "version":  "0.1.2-dev",
+    "sha256":  "31917e87751e21d67cfe43edca82c44123860266ac584002455e6ce470dfe0cc",
+    "notes":  "DiyfriendEBX 0.1.2-dev (sealed; setup has desktop icon)",
+    "filename":  "DiyfriendEBX-0.1.2-dev.zip",
     "released":  "2026-08-03",
-    "url":  "https://github.com/diyfree123-EB/DiyfriendEBX-releases/releases/download/v0.1.1-dev/DiyfriendEBX-0.1.1-dev.zip",
+    "url":  "https://github.com/diyfree123-EB/DiyfriendEBX-releases/releases/download/v0.1.2-dev/DiyfriendEBX-0.1.2-dev.zip",
     "package":  "setup-exe",
     "hw_sealed":  true,
-    "setup":  "DiyfriendEBX-0.1.1-dev-setup.exe"
+    "setup":  "DiyfriendEBX-0.1.2-dev-setup.exe"
 }
