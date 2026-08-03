@@ -3,6 +3,6 @@
   "branch": "master",
   "releases_repo": "diyfree123-EB/DiyfriendEBX-releases",
   "releases_branch": "master",
-  "visibility": "private",
-  "notes": "Private only — protocol docs/captures must not be public. Field updates need GITHUB_TOKEN / EBX_GITHUB_TOKEN."
+  "visibility": "public",
+  "notes": "Releases Public (setup/zip anyone can download). Source EBX-D stays Private. Do not put protocol docs/captures in releases repo."
 }
