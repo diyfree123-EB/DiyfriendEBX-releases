@@ -1,12 +1,12 @@
 {
-  "version": "0.1.22-dev",
-  "sha256": "07dba8cf5c580d8ab36fd25edd9b3739c11150da7d556e8160d3d536dda708e0",
-  "notes": "저장 실패 시 스텝 진행 보류·데이터 보존, 마지막 휴식 완료 상태 수정, 안전 종료 후 업데이트 설치·SHA256 검증, 시작 응답 유실 시 정지 허용, 채널 선택 사이드바 개선",
-  "filename": "DiyfriendEBX-0.1.22-dev.zip",
+  "version": "0.1.23-dev",
+  "sha256": "a760b796a690b46a07f70925294379d0206e79f21aa098e37391db8e23f3cb80",
+  "notes": "시작 확인에서 같은 설정 채널을 COM별로 묶고 목록 스크롤 및 하단 실행 버튼 고정",
+  "filename": "DiyfriendEBX-0.1.23-dev.zip",
   "released": "2026-10-10",
-  "url": "https://github.com/diyfree123-EB/DiyfriendEBX-releases/releases/download/v0.1.22-dev/DiyfriendEBX-0.1.22-dev.zip",
+  "url": "https://github.com/diyfree123-EB/DiyfriendEBX-releases/releases/download/v0.1.23-dev/DiyfriendEBX-0.1.23-dev.zip",
   "package": "exe-onedir-zip",
   "hw_sealed": true,
-  "setup": "DiyfriendEBX-0.1.22-dev-setup.exe",
-  "setup_sha256": "a677ed6ddd899f22d4ad7f2a9e6954895af8818640f75d22aa3e514dd55f94cf"
+  "setup": "DiyfriendEBX-0.1.23-dev-setup.exe",
+  "setup_sha256": "904ebb366c242585a5dd484f11b3a11c01502e8e12776afa6318492818a610a6"
 }
