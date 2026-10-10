@@ -1,11 +1,12 @@
-﻿{
-    "version":  "0.1.16-dev",
-    "sha256":  "06a14e95d9d13bfc95dda3d9938369e2215ba2f2af14529e2c9f28cfb5f09e1d",
-    "notes":  "DiyfriendEBX 0.1.16-dev (sealed; setup has desktop icon)",
-    "filename":  "DiyfriendEBX-0.1.16-dev.zip",
-    "released":  "2026-08-11",
-    "url":  "https://github.com/diyfree123-EB/DiyfriendEBX-releases/releases/download/v0.1.16-dev/DiyfriendEBX-0.1.16-dev.zip",
-    "package":  "setup-exe",
-    "hw_sealed":  true,
-    "setup":  "DiyfriendEBX-0.1.16-dev-setup.exe"
+{
+  "version": "0.1.20-dev",
+  "sha256": "8790724cfbff385ac72ef8060e6f3120389c6a03d450fba6a710e0adcea4e8ed",
+  "notes": "채널별 독립 시험·전체/COM별 선택, 스텝별 그래프 비교, 데이터 리포트 화면 개선, 시험 중지·저장 후 종료",
+  "filename": "DiyfriendEBX-0.1.20-dev.zip",
+  "released": "2026-10-10",
+  "url": "https://github.com/diyfree123-EB/DiyfriendEBX-releases/releases/download/v0.1.20-dev/DiyfriendEBX-0.1.20-dev.zip",
+  "package": "exe-onedir-zip",
+  "hw_sealed": true,
+  "setup": "DiyfriendEBX-0.1.20-dev-setup.exe",
+  "setup_sha256": "1f7289f81103f3abc0ebb17ebe64467c482841b48029d011d7c6217820b0ee9d"
 }
